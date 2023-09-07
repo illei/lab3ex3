@@ -6,6 +6,7 @@ namespace lab3ex3
     {
         static void Main(string[] args)
         {
+            /*Scrieti o functie care va determina daca un numar este sau nu patrat perfect. Apelati-o si afisati-i rezultatul*/
             double n = double.Parse(Console.ReadLine());
             isPerfectSquare(n);
         }
